@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Francisco Ruiz  
 
-**Data Analytics & Finance Professional | CFA Charterholder | Python & BI Visualization Enthusiast**
+** Head of Data for Biocells Discoveries | CFA Level III Candidate | Python & BI Visualization (Power BI) **
 
 ---
 
 ## 📌 About Me
-- 🎓 **CFA Charterholder** with expertise in portfolio management, risk analysis, and financial modeling.  
-- 📊 **Head of Data** in the healthcare industry, leading a team of analysts.  
+- 🎓 **CFA Level 3 Candidate** with expertise in portfolio management, risk analysis, and financial modeling.  
+- 📊 **Head of Data** in the healthcare industry, leading a team of 5 analysts.  
 - 💻 Skilled in **Python, SQL, Power BI, and Excel** for data transformation, visualization, and reporting.  
 - 📈 Strong background in **Applied Statistics, Econometrics, and Data Science** for decision-making.  
 - 🌍 Passionate about bridging **finance, analytics, and technology** to optimize business outcomes.  
