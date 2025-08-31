@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Francisco Ruiz  
 
-** Head of Data for Biocells Discoveries | CFA Level III Candidate | Python & BI Visualization (Power BI) **
+**Head of Data for Biocells Discoveries | CFA Level III Candidate | Python & BI Visualization (Power BI)**
 
 ---
 
