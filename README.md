@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Francisco Ruiz  
 
-<!--
-**francisc112/francisc112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analytics & Finance Professional | CFA Charterholder | Python & BI Visualization Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About Me
+- 🎓 **CFA Charterholder** with expertise in portfolio management, risk analysis, and financial modeling.  
+- 📊 **Head of Data** in the healthcare industry, leading a team of analysts.  
+- 💻 Skilled in **Python, SQL, Power BI, and Excel** for data transformation, visualization, and reporting.  
+- 📈 Strong background in **Applied Statistics, Econometrics, and Data Science** for decision-making.  
+- 🌍 Passionate about bridging **finance, analytics, and technology** to optimize business outcomes.  
+
+---
+
+## 🛠 Core Skills
+- **Finance & Analytics:** Portfolio optimization, asset allocation, risk management.  
+- **Programming & Statistics:** Python (Pandas, NumPy, SciPy, Statsmodels, Scikit-learn).  
+- **Business Intelligence:** Power BI (DAX, dataflows), SQL, Excel modeling.  
+- **Visualization:** Matplotlib, Seaborn, Plotly.  
+- **Specialties:** Applied statistics, econometrics, time-series forecasting, healthcare analytics.  
+
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/francisco-data-analyst)  
+
+---
+
+⭐️ *Feel free to explore my repos — I combine finance, analytics, and technology to turn data into actionable insights.*
